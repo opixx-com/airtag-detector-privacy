@@ -1,1 +1,1 @@
-# airtag-detector-privacy
+# detector-privacy
